@@ -1,6 +1,5 @@
 import { render } from '@ember/test-helpers';
 import { hbs } from 'ember-cli-htmlbars';
-// import hbs from 'htmlbars-inline-precompile';
 
 export default [
   {
